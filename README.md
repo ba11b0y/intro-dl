@@ -1,6 +1,6 @@
 # intro-dl
 
-This repository serves as a collection of notes/exercises/homeworks for multiple courses.
+This repository serves as a collection of notes/exercises/homeworks for multiple courses/projects both in progress and completed as my effort to upskill myself in the field of AI safety.
 
 ## CS 6804 AI Security and Privacy at Virginia Tech
 
